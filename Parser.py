@@ -8,8 +8,8 @@ user_token_Bot = 'telegramToken'
 version = '5.126'
 tokenVk = 'vktoken'
 
-ID_Vk_group = ['palatanom69','palatanom69','myironcomp']
-ID_Tel_group = ['@palata_69','@palata69Sexy','@it_news_time']
+ID_Vk_group = ['palatanom69','myironcomp']
+ID_Tel_group = ['@palata_69','@it_news_time']
 Time_Message = [0,0,0]
 
 i = 0
